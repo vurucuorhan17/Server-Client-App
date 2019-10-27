@@ -1,5 +1,5 @@
 # Python3 ile Geliştirilen Server - Client Uygulaması
-# Yazar: Orhan Furkan VURUCU
+Yazar: Orhan Furkan VURUCU
 
 Yazılımı kullanmak için sunucu tarafında server.py dosyasında 'dosya = open("kaydedilen-dosya.png","wb")'
 komutundaki "kaydedilen-dosya.png" kısmının uzantısını göndereceğiniz dosyanın uzantısı olarak değiştirin.
